@@ -6342,3 +6342,87 @@
 ✅ Article 485/1000 saved - Topic: प्रतिरक्षा प्रणाली और रोग प्रतिरोधक क्षमता
 ✅ Article 432/1000 saved - Topic: काउंटरइंटेलिजेंस तकनीक
 ✅ Article 486/1000 saved - Topic: मानव शरीर की संरचना और कार्य
+✅ Article 440/1000 saved - Topic: कार सजावट और अनुकूलन
+✅ Article 485/1000 saved - Topic: 8. ब्लूटूथ और वाई-फाई कैसे काम करते हैं: एक तकनीकी अवलोकन
+✅ Article 487/1000 saved - Topic: चिकित्सा विज्ञान का परिचय
+✅ Article 423/1000 saved - Topic: सीमा सुरक्षा और प्रवासन नियंत्रण
+✅ Article 409/1000 saved - Topic: नौसेना के सामरिक और रणनीतिक खुफिया
+✅ Article 433/1000 saved - Topic: सैन्य खुफिया में कृत्रिम बुद्धिमत्ता
+✅ Article 456/1000 saved - Topic: किडनी और मूत्र प्रणाली के रोग
+✅ Article 435/1000 saved - Topic: खुफिया डेटा का प्रबंधन और संग्रह
+✅ Article 412/1000 saved - Topic: समुद्री सुरक्षा और पाइरेसी
+✅ Article 410/1000 saved - Topic: नौसेना में महिलाओं की भूमिका
+✅ Article 488/1000 saved - Topic: फिजियोथेरेपी और पुनर्वास चिकित्सा
+✅ Article 482/1000 saved - Topic: 4. प्रिंटेड सर्किट बोर्ड (PCB): डिज़ाइन और निर्माण प्रक्रिया
+✅ Article 411/1000 saved - Topic: नौसेना के लिए नवीनतम तकनीक
+✅ Article 441/1000 saved - Topic: वाहन चोरी की रोकथाम
+✅ Article 420/1000 saved - Topic: शहरी युद्ध की रणनीतियाँ
+✅ Article 457/1000 saved - Topic: किडनी और मूत्र प्रणाली के रोग
+✅ Article 413/1000 saved - Topic: नौसेना के वायु संचालन
+✅ Article 424/1000 saved - Topic: मनोवैज्ञानिक ऑपरेशन (PsyOps)
+✅ Article 486/1000 saved - Topic: 4. प्रिंटेड सर्किट बोर्ड (PCB): डिज़ाइन और निर्माण प्रक्रिया
+✅ Article 484/1000 saved - Topic: 8. ब्लूटूथ और वाई-फाई कैसे काम करते हैं: एक तकनीकी अवलोकन
+✅ Article 436/1000 saved - Topic: सैन्य खुफिया के मूल सिद्धांत
+✅ Article 442/1000 saved - Topic: ऑटोमोबाइल की नई ट्रेंड्स
+✅ Article 443/1000 saved - Topic: कारें और ट्रैफिक व्यवस्था
+✅ Article 487/1000 saved - Topic: 7. रेडियो फ्रीक्वेंसी (RF) संचार और आधुनिक उपकरणों में इसकी भूमिका
+✅ Article 444/1000 saved - Topic: कार की रंगाई और पुनर्नवीनीकरण
+✅ Article 426/1000 saved - Topic: सैन्य स्वास्थ्य सेवाएं
+✅ Article 491/1000 saved - Topic: बाल चिकित्सा और नवजात शिशु देखभाल
+✅ Article 458/1000 saved - Topic: मोटापा और वजन प्रबंधन
+✅ Article 490/1000 saved - Topic: सर्जरी और उसके प्रकार
+✅ Article 492/1000 saved - Topic: चिकित्सा विज्ञान का परिचय
+✅ Article 427/1000 saved - Topic: सैन्य गठबंधन और संधियाँ
+✅ Article 489/1000 saved - Topic: संक्रामक रोग और उनकी रोकथाम
+✅ Article 437/1000 saved - Topic: काउंटरइंटेलिजेंस तकनीक
+✅ Article 488/1000 saved - Topic: 9. डिजिटल सिग्नल प्रोसेसिंग (DSP) की मूल बातें और इसके अनुप्रयोग
+✅ Article 438/1000 saved - Topic: सैन्य खुफिया की भूमिका
+✅ Article 434/1000 saved - Topic: खुफिया डेटा का प्रबंधन और संग्रह
+✅ Article 459/1000 saved - Topic: गैस्ट्रोएंटरोलॉजी और पाचन तंत्र विकार
+✅ Article 416/1000 saved - Topic: समुद्री सीमा और क्षेत्रीय दावे
+✅ Article 445/1000 saved - Topic: पर्यावरण और ऑटोमोबाइल
+✅ Article 493/1000 saved - Topic: स्नायु तंत्र और उसकी कार्यप्रणाली
+✅ Article 414/1000 saved - Topic: नौसेना की रणनीति और तैनाती
+✅ Article 415/1000 saved - Topic: समुद्री पर्यावरण संरक्षण
+✅ Article 439/1000 saved - Topic: एजेंट नेटवर्क और सूचना संग्रह
+✅ Article 417/1000 saved - Topic: समुद्री सुरक्षा और पाइरेसी
+✅ Article 461/1000 saved - Topic: त्वचा विज्ञान और त्वचा विकार
+✅ Article 460/1000 saved - Topic: गैस्ट्रोएंटरोलॉजी और पाचन तंत्र विकार
+✅ Article 446/1000 saved - Topic: कार नेविगेशन और टेक्नोलॉजी
+✅ Article 489/1000 saved - Topic: 3. ऑपरेशनल एम्पलीफायर: अनुप्रयोग और कार्य प्रणाली
+✅ Article 418/1000 saved - Topic: भारतीय नौसेना का परिचय
+✅ Article 428/1000 saved - Topic: सीमा सुरक्षा और प्रवासन नियंत्रण
+✅ Article 491/1000 saved - Topic: 1. सेमीकंडक्टर और आधुनिक इलेक्ट्रॉनिक्स में उनकी भूमिका
+✅ Article 462/1000 saved - Topic: जीवाणु और वायरल संक्रमण
+✅ Article 429/1000 saved - Topic: मनोवैज्ञानिक ऑपरेशन (PsyOps)
+✅ Article 440/1000 saved - Topic: खुफिया मिशनों की रणनीति
+✅ Article 425/1000 saved - Topic: आतंकवाद विरोधी रणनीतियाँ
+✅ Article 463/1000 saved - Topic: किडनी और मूत्र प्रणाली के रोग
+✅ Article 495/1000 saved - Topic: बाल चिकित्सा और नवजात शिशु देखभाल
+✅ Article 490/1000 saved - Topic: 2. डायोड और ट्रांजिस्टर के कार्य सिद्धांत
+✅ Article 494/1000 saved - Topic: कैंसर: कारण, लक्षण और उपचार
+✅ Article 430/1000 saved - Topic: सैन्य लॉजिस्टिक्स और आपूर्ति श्रृंखला
+✅ Article 492/1000 saved - Topic: 9. डिजिटल सिग्नल प्रोसेसिंग (DSP) की मूल बातें और इसके अनुप्रयोग
+✅ Article 497/1000 saved - Topic: मानव शरीर की संरचना और कार्य
+✅ Article 449/1000 saved - Topic: पर्यावरण और ऑटोमोबाइल
+✅ Article 493/1000 saved - Topic: 3. ऑपरेशनल एम्पलीफायर: अनुप्रयोग और कार्य प्रणाली
+✅ Article 420/1000 saved - Topic: नौसेना की रसद और सप्लाई चेन
+✅ Article 447/1000 saved - Topic: कार की रंगाई और पुनर्नवीनीकरण
+✅ Article 464/1000 saved - Topic: गैस्ट्रोएंटरोलॉजी और पाचन तंत्र विकार
+✅ Article 450/1000 saved - Topic: कार रखरखाव के टिप्स
+✅ Article 448/1000 saved - Topic: गाड़ी के पार्ट्स की कीमतें
+✅ Article 431/1000 saved - Topic: जमीनी बल और कवचित वाहन
+✅ Article 441/1000 saved - Topic: क्रिप्टोग्राफी और संचार सुरक्षा
+✅ Article 419/1000 saved - Topic: नौसेना के वायु संचालन
+✅ Article 444/1000 saved - Topic: इलेक्ट्रॉनिक युद्ध और खुफिया
+✅ Article 496/1000 saved - Topic: आयुर्वेद और प्राकृतिक चिकित्सा
+✅ Article 466/1000 saved - Topic: गैस्ट्रोएंटरोलॉजी और पाचन तंत्र विकार
+✅ Article 443/1000 saved - Topic: क्रिप्टोग्राफी और संचार सुरक्षा
+✅ Article 421/1000 saved - Topic: नौसेना के अभियान और अभियानों का इतिहास
+✅ Article 495/1000 saved - Topic: 4. प्रिंटेड सर्किट बोर्ड (PCB): डिज़ाइन और निर्माण प्रक्रिया
+✅ Article 422/1000 saved - Topic: नौसेना के जहाजों की क्षमता
+✅ Article 423/1000 saved - Topic: नौसेना की निर्माण क्षमताएं
+✅ Article 442/1000 saved - Topic: खुफिया मिशनों की रणनीति
+✅ Article 494/1000 saved - Topic: 9. डिजिटल सिग्नल प्रोसेसिंग (DSP) की मूल बातें और इसके अनुप्रयोग
+✅ Article 465/1000 saved - Topic: फिजियोथेरेपी और पुनर्वास चिकित्सा
+✅ Article 432/1000 saved - Topic: सैन्य लॉजिस्टिक्स और आपूर्ति श्रृंखला
